@@ -12,6 +12,6 @@ Gem::Specification.new do |s|
 	s.files       = ["lib/ziplocator.rb"]
 	s.homepage    = 'http://rubygems.org/gems/ziplocator'
 	s.license     = 'MIT'
-	s.add_development_dependency 'bundler', '~> 1.1'
-  s.add_development_dependency 'rspec', '~> 3'
+	s.add_development_dependency 'bundler'
+  s.add_development_dependency 'rspec'
 end

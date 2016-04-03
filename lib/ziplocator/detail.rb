@@ -7,10 +7,8 @@ module ZipLocator
 
 		def self.find_address(zipcode)
 			@zipcode = zipcode
-			result_hash = self.info
+			result_hash = info
 		end
-
-		private
 
 		def self.info
 			url = URI("http://maps.googleapis.com/maps/api/geocode/json?address=#{@zipcode}")

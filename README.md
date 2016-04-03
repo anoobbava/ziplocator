@@ -1,3 +1,4 @@
 [![Build Status](https://travis-ci.org/anoobbava/ziplocator.svg?branch=master)](https://travis-ci.org/anoobbava/ziplocator)
-<a href="https://codeclimate.com/github/anoobbava/ziplocator"><img src="https://codeclimate.com/github/anoobbava/ziplocator/badges/gpa.svg" /></a>
-<a href="https://codeclimate.com/github/anoobbava/ziplocator/coverage"><img src="https://codeclimate.com/github/anoobbava/ziplocator/badges/coverage.svg" /></a>
+[![Code Climate](https://codeclimate.com/github/anoobbava/ziplocator/badges/gpa.svg)](https://codeclimate.com/github/anoobbava/ziplocator)
+[![Test Coverage](https://codeclimate.com/github/anoobbava/ziplocator/badges/coverage.svg)](https://codeclimate.com/github/anoobbava/ziplocator/coverage)
+[![Issue Count](https://codeclimate.com/github/anoobbava/ziplocator/badges/issue_count.svg)](https://codeclimate.com/github/anoobbava/ziplocator)

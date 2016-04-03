@@ -7,7 +7,7 @@ module ZipLocator
 
 		def self.find_address(zipcode)
 			@zipcode = zipcode
-			result_hash = info
+				info
 		end
 
 		def self.info
